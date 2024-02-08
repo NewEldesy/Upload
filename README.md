@@ -10,7 +10,8 @@
 
 ### Après le traitement la page profile.php vous montre tous les profile
 
-
 ### Structure de la base de données
 
-#### Table Profile(id, Nom, Prenom, Filename)
+#### Table Profile = id, Nom, Prenom, Filename
+
+### Contact : <ramelmakosso@gmail.com>
