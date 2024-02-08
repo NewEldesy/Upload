@@ -1,10 +1,10 @@
 <?php
     function db() {
         $connexion = null;
-        $host= 'mysql-javacrud.alwaysdata.net';
-        $dbname = "javacrud_up";
-        $username = 'javacrud';
-        $password = 'Javacrud.mysql';
+        $host= 'localhost';
+        $dbname = "Upload";
+        $username = 'admin';
+        $password = 'Admin1234!';
 
         try {
             $connexion = new PDO("mysql:host=".$host.";dbname=".$dbname, $username, $password);

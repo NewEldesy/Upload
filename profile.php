@@ -1,6 +1,6 @@
 <?php
 // Connexion à la base de données (à adapter selon votre configuration)
-$conn = new mysqli('mysql-javacrud.alwaysdata.net', 'javacrud', 'Javacrud.mysql', 'javacrud_up');
+$conn = new mysqli('localhost', 'admin', 'Admin1234!', 'Upload');
 
 // Vérification de la connexion
 if ($conn->connect_error) {
