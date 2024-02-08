@@ -1,5 +1,6 @@
 # Upload
-Upload image using PHP &amp; MySql
+
+## Upload image using PHP &amp; MySql
 
 ## Fonctionnalités
 
