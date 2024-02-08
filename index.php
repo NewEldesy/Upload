@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1>Créer Profil</h1>
-        <form action="upload.php" method="post" enctype="multipart/form-data">
+        <form action="upload.php" method="POST" enctype="multipart/form-data">
             <label for="nom">Nom</label>
             <br>
             <input type="text" name="nom" maxlength="100" required>
